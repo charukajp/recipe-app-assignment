@@ -1,0 +1,23 @@
+G:\C#\My recipe\My recipe\bin\Debug\net6.0-windows\Car rental app.exe
+G:\C#\My recipe\My recipe\bin\Debug\net6.0-windows\Car rental app.deps.json
+G:\C#\My recipe\My recipe\bin\Debug\net6.0-windows\Car rental app.runtimeconfig.json
+G:\C#\My recipe\My recipe\bin\Debug\net6.0-windows\Car rental app.dll
+G:\C#\My recipe\My recipe\bin\Debug\net6.0-windows\ref\Car rental app.dll
+G:\C#\My recipe\My recipe\bin\Debug\net6.0-windows\Car rental app.pdb
+G:\C#\My recipe\My recipe\obj\Debug\net6.0-windows\Car rental app.csproj.AssemblyReference.cache
+G:\C#\My recipe\My recipe\obj\Debug\net6.0-windows\My_recipe.end.resources
+G:\C#\My recipe\My recipe\obj\Debug\net6.0-windows\My_recipe.finalform.resources
+G:\C#\My recipe\My recipe\obj\Debug\net6.0-windows\My_recipe.Loginform.resources
+G:\C#\My recipe\My recipe\obj\Debug\net6.0-windows\My_recipe.Properties.Resources.resources
+G:\C#\My recipe\My recipe\obj\Debug\net6.0-windows\My_recipe.Registerform.resources
+G:\C#\My recipe\My recipe\obj\Debug\net6.0-windows\My_recipe.user_select.resources
+G:\C#\My recipe\My recipe\obj\Debug\net6.0-windows\Car rental app.csproj.GenerateResource.cache
+G:\C#\My recipe\My recipe\obj\Debug\net6.0-windows\Car rental app.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\My recipe\My recipe\obj\Debug\net6.0-windows\Car rental app.AssemblyInfoInputs.cache
+G:\C#\My recipe\My recipe\obj\Debug\net6.0-windows\Car rental app.AssemblyInfo.cs
+G:\C#\My recipe\My recipe\obj\Debug\net6.0-windows\Car rental app.csproj.CoreCompileInputs.cache
+G:\C#\My recipe\My recipe\obj\Debug\net6.0-windows\Car rental app.dll
+G:\C#\My recipe\My recipe\obj\Debug\net6.0-windows\ref\Car rental app.dll
+G:\C#\My recipe\My recipe\obj\Debug\net6.0-windows\Car rental app.pdb
+G:\C#\My recipe\My recipe\obj\Debug\net6.0-windows\Car rental app.genruntimeconfig.cache
+G:\C#\My recipe\My recipe\obj\Debug\net6.0-windows\My_recipe.firstform.resources
